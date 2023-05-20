@@ -22,7 +22,6 @@
 
 
 ## My Skill Set  
----
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -112,7 +111,6 @@
 
 
 ## Github Stats  
----
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chacha-A-Chacha&hide_border=true&layout=compact" align="center" /></div>  
 
 <br>
@@ -122,7 +120,6 @@
 
 
 ## Recent Blog Posts  
----
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
@@ -130,7 +127,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
----
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chacha-A-Chacha&&style=flat-square" align="center" />
 </div>  
@@ -138,7 +134,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-----
+
 ---
 <div align="center">
             <a href="https://paypal.me/vvv" target="_blank" style="display: inline-block;">
