@@ -127,7 +127,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=Chacha-A-Chacha&&style=flat-square" align="center" />
 </div>  
   
